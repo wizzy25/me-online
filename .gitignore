@@ -1,0 +1,22 @@
+# dependencies
+node_modules
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# Optional eslint cache
+.eslintcache
+
+.DS_Store
+lib
