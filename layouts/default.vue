@@ -23,20 +23,17 @@
             <nuxt-link active-class="is-active" to="/about" class="navbar-item is-tab" exact>About</nuxt-link>
           </div>
           <div class="navbar-end">
-            <a active-class="is-active" href="https://github.com/wizzy25" class="navbar-item is-tab">
+            <a active-class="is-active" href="https://github.com/wizzy25" class="navbar-item is-tab" target ="_blank">
               <img src="../static/00_github.svg" alt="GitHub" />
             </a>
             <a href="https://www.xing.com/profile/Williams_Omayuku" class="navbar-item is-tab" target ="_blank" exact>
               <img src="../static/00_xing.svg" alt="Xing" />
             </a>
-            <a href="https://www.linkedin.com/in/wizzy25/" class="navbar-item is-tab" exact>
+            <a href="https://www.linkedin.com/in/wizzy25/" class="navbar-item is-tab" target ="_blank" exact>
               <img src="../static/00_linkedin.svg" alt="LinkedIn" />
             </a>
-            <a active-class="is-active" href="https://twitter.com/wizzy25_" class="navbar-item is-tab" exact>
+            <a active-class="is-active" href="https://twitter.com/wizzy25_" class="navbar-item is-tab" target ="_blank" exact>
               <img src="../static/00_twitter.svg" alt="Twitter" />
-            </a>
-            <a active-class="is-active" href="https://plus.google.com/104478107488186129902" class="navbar-item is-tab" exact>
-              <img src="../static/00_google_plus.svg" alt="Google+" />
             </a>
           </div>
         </div>
