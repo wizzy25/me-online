@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: me-online
+  tags:
+    - website
+    
+  annotations:
+    github.com/project-slug: wizzy25/me-online
+spec:
+  type: website
+  lifecycle: poc
+  owner: aws-tlz
