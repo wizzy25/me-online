@@ -22,6 +22,7 @@ module.exports = {
       },
     ],
   },
+  buildDir: 'nuxt-dist',
   /*
    ** Customize the progress bar color
    */
