@@ -6,7 +6,8 @@
 }
 
 .title {
-  font-family: "Times", "Georgia", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Times', 'Georgia', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
   font-size: 8vw;
@@ -15,7 +16,8 @@
 }
 
 .subtitle {
-  font-family: "Times", "Georgia", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Times', 'Georgia', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-weight: 300;
   font-size: 3.1vw;
   word-spacing: 5px;

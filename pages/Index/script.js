@@ -1,5 +1,5 @@
 export default {
   head: {
-    title: 'Home'
-  }
+    title: 'Home',
+  },
 }
